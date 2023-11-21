@@ -1,0 +1,4 @@
+Servo 1: 2 - 13
+Servo 2: 2 - 13
+Servo 3: 2 - 13
+Servo 4: 3 - 14
